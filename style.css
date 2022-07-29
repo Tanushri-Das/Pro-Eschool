@@ -1,0 +1,30 @@
+.img-dark{
+    filter: brightness(50%);
+}
+.slider-section h1{
+    font-size: 4.2vw;
+}
+h2{
+    font-size: 3vw;
+}
+.paragraph-size{
+    font-size:2vw;
+}
+.course-section img{
+    width: 200px;
+    height: 205px;
+}
+.details-section .right-side{
+    background-color: #F4FAFD;
+    border-radius: 5px;
+}
+.students-feedback-section img{
+    width:70px;
+}
+.trusted-companies-section img{
+    width: 120px;
+}
+/* Register Page */
+.register{
+    margin-top:80px;
+}
